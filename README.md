@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: black;
-  color: white;
-}
-a {
-  color: lightblue; /* makes links visible */
-}
-</style>
-</head>
+
 
 <body>
 
